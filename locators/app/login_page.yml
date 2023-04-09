@@ -1,0 +1,9 @@
+用户名输入框:
+  type: xpath
+  value: //input[@id="name"]
+密码输入框:
+  type: xpath
+  value: //input[@id="password"]
+登录按钮:
+  type: xpath
+  value: //button[@id="submit"]

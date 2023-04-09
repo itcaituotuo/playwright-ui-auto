@@ -1,0 +1,5 @@
+url: https://sso.kuaidi100.com/sso/v2/authorize.do
+
+data:
+  username:
+  password:
