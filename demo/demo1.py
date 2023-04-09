@@ -2,7 +2,7 @@
 # datetime: 2023/4/8 2:18
 # function: 第一个playwright脚本，使用with写法
 
-from playwright.sync_api import sync_playwright, expect
+from playwright.sync_api import sync_playwright
 
 
 def run(playwright):

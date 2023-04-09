@@ -3,7 +3,7 @@
 # function:
 
 import pytest
-from pages.app.login_page import LoginPage
+
 from business.app.biz_login import BizLogin
 
 

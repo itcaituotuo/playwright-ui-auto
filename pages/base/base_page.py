@@ -2,7 +2,6 @@
 # datetime: 2023/4/9 23:52
 # function: 基类，对Playwright库进行二次封装
 
-import inspect
 
 from utils.yaml_utils import YamlUtils
 

@@ -1,5 +1,5 @@
 url: https://sso.kuaidi100.com/sso/v2/authorize.do
 
 data:
-  username:
-  password:
+  username: '15059224492'
+  password: admin#1234
